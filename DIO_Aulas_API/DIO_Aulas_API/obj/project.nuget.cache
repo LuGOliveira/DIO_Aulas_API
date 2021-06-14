@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8kdUv+v2xMwMSmJmZbC1QgbQMSm7GLPUPuOwkqrMAhZTUi8c665qNNH9um+A3ObxTsSCGWF3TwI1jfKNnHcJg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\DIO\\DIO_Aulas_API\\DIO_Aulas_API\\DIO_Aulas_API\\DIO_Aulas_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lucin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lucin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\lucin\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.1.4\\swashbuckle.aspnetcore.annotations.6.1.4.nupkg.sha512",
+    "C:\\Users\\lucin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\lucin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\lucin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

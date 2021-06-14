@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DIO_Aulas_API</name>
+    </assembly>
+    <members>
+        <member name="M:DIO_Aulas_API.Controllers.UsuarioController.Logar(DIO_Aulas_API.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Seerviço responsável por autenticar o usuário cadastratido e ativo.
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns>Retorna status OK e os dados do usuário</returns>
+        </member>
+    </members>
+</doc>
